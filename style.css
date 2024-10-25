@@ -93,6 +93,7 @@ body {
   margin-top: 1rem;
 }
 
+
 /*  icon div */
 .icon-bg {
   background-color: hsl(15, 100%, 70%);
@@ -137,6 +138,12 @@ body {
   max-width: 100%;
   z-index: 2;
 }
+
+.activity-info:hover{
+  background-color: hsl(235, 46%, 40%);
+  cursor: pointer;
+}
+
 .nav {
   display: flex;
   justify-content: space-between;
@@ -145,6 +152,7 @@ body {
 .activity-info h5 {
   margin: 0;
   font-size: 1.2rem;
+  cursor: pointer;
 }
 
 .activity-info p {
