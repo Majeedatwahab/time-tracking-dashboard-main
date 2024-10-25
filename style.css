@@ -50,7 +50,7 @@ body {
   margin: 5px 0;
   color: hsl(236, 100%, 87%);
 }
-.profile-card h3 {
+.profile-card h5 {
   font-size: 1.8rem;
   font-weight: lighter;
   margin: 0;
