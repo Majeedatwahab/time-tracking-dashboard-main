@@ -50,7 +50,7 @@ body {
   margin: 5px 0;
   color: hsl(236, 100%, 87%);
 }
-.profile-card h5 {
+.profile-card h3 {
   font-size: 1.8rem;
   font-weight: lighter;
   margin: 0;
@@ -142,7 +142,7 @@ body {
   justify-content: space-between;
 }
 
-.activity-info h3 {
+.activity-info h5 {
   margin: 0;
   font-size: 1.2rem;
 }
